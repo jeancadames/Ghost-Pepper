@@ -7,22 +7,22 @@ export const Gallery = () => {
 
             <div className="gallery-container">
                 <div className="gallery-image-container">
-                    <img src="src\assets\gallery-img-3.jpg" alt=""/>
+                    <img src="assets\gallery-img-3.jpg" alt=""/>
                 </div>
                 <div className="gallery-image-container second-img">
-                    <img src="src\assets\gallery-img-1.jpg" alt=""/>
+                    <img src="assets\gallery-img-1.jpg" alt=""/>
                 </div>
                 <div className="gallery-image-container">
-                    <img src="src\assets\gallery-img-3.jpg" alt=""/>
+                    <img src="assets\gallery-img-3.jpg" alt=""/>
                 </div>
                 <div className="gallery-image-container">
-                    <img src="src\assets\gallery-img-2.jpg" alt=""/>
+                    <img src="assets\gallery-img-2.jpg" alt=""/>
                 </div>
                 <div className="gallery-image-container">
-                    <img src="src\assets\gallery-img-4.jpg" alt=""/>
+                    <img src="assets\gallery-img-4.jpg" alt=""/>
                 </div>
                 <div className="gallery-image-container">
-                    <img src="src\assets\gallery-img-2.jpg" alt=""/>
+                    <img src="assets\gallery-img-2.jpg" alt=""/>
                 </div>
             </div>
         </div>

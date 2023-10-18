@@ -6,7 +6,7 @@ export const About = (isHomePage) => {
     <section className="section container" id="about">
             <h1 className="section-title">About us</h1>
             <div className="about">
-                <img src="src\assets\about-img.jpg" alt=""/>
+                <img src="assets\about-img.jpg" alt=""/>
                 <div className="about-content">
                     <h3>The history of</h3>
                     <h4>Our Restaurant</h4>

@@ -42,16 +42,16 @@ export const Navbar = ({backgroundImageNumber}) => {
                 </div>
                 <div className="hero-images">
                     <div className="image-block">
-                        <img src="src\assets\block-img-1.jpg" alt=""/>
+                        <img src="assets\block-img-1.jpg" alt=""/>
                     </div>
                     <div className="image-block">
-                        <img src="src\assets\block-img-2.jpg" alt=""/>
+                        <img src="assets\block-img-2.jpg" alt=""/>
                     </div>
                     <div className="image-block">
-                        <img src="src\assets\block-img-3.jpg" alt=""/>
+                        <img src="assets\block-img-3.jpg" alt=""/>
                     </div>
                     <div className="image-block">
-                        <img src="src\assets\block-img-4.jpg" alt=""/>
+                        <img src="assets\block-img-4.jpg" alt=""/>
                     </div>
                 </div>
             </div>

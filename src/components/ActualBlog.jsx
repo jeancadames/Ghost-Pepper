@@ -8,7 +8,7 @@ library.add(faCalendar, faUser, faComment);
 export const ActualBlog = () => {
   return (
             <div className="actual-blog-container">
-                <img src="src\assets\blog-banner-img.jpg" alt=""/>
+                <img src="assets\blog-banner-img.jpg" alt=""/>
                 <h1>Launch: Food Innovation Challenge in Asia-Pacific Region</h1>
                 <div className="blog-author-container">
                     <FontAwesomeIcon icon="fa-solid fa-user"/>

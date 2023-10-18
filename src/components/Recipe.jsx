@@ -12,7 +12,7 @@ export const Recipe = () => {
                     {/* <a className="cta-alt">Order now</a> */}
                 </div>
                 <div className="recipe-img">
-                    <img src="src\assets\recipe-img.jpg" alt=""/>
+                    <img src="assets\recipe-img.jpg" alt=""/>
                 </div>
             </div>
         </div>

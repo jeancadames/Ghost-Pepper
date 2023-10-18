@@ -6,7 +6,7 @@ export const Blog = () => {
             <div className="blog-container">
                 <div className="blog-card">
                     <div className="blog-image">
-                        <img src="src\assets\blog-img-1.jpg" alt=""/>
+                        <img src="assets\blog-img-1.jpg" alt=""/>
                     </div>
                     <div className="blog-content-container">
                         <h2 className="blog-title">
@@ -21,7 +21,7 @@ export const Blog = () => {
                 </div>
                 <div className="blog-card">
                     <div className="blog-image">
-                        <img src="src\assets\blog-img-2.jpg" alt=""/>
+                        <img src="assets\blog-img-2.jpg" alt=""/>
                     </div>
                     <div className="blog-content-container">
 
@@ -37,7 +37,7 @@ export const Blog = () => {
                 </div>
                 <div className="blog-card">
                     <div className="blog-image">
-                        <img src="src\assets\blog-img-3.jpg" alt=""/>
+                        <img src="assets\blog-img-3.jpg" alt=""/>
                     </div>
                     <div className="blog-content-container">
 
